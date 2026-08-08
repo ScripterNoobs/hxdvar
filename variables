@@ -1,0 +1,23 @@
+PGTServerIP|0.0.0.0
+PGTServerPort|0000
+
+# VERSION STUFF
+CurrentVersion|1.9
+UpdateMSG|`1`2New Proxy Version`` (`#V1.9``) Is Available, Update Proxy To Play!
+
+# INFO
+ConsoleMessage|`9[`^dsc.gg/hxdproxy``]``
+Discord|https://discord.gg/EUfnTrXeR
+
+# GT STUFF
+GrowtopiaFPS_Offset|40502812
+GrowtopiaFPS_Pattern|E9 ? ? ? ? E8 ? ? ? ? 89 74 24 28 89 74 24 20 0F 57 DB 0F 28 D7 BA 13 00 00 00 48 8B C8
+ServerIP|213.179.209.175
+ServerPort|17043
+ServerLoginUrl|login.growtopiagame.com
+
+AddBackupDNS|growtopia2.com
+AddBackupDNS|62.183.170.43
+AddBackupDNS|54.210.2.218
+
+ItemsBackup|https://raw.githubusercontent.com/HxDReal/hxd-variables/refs/heads/main/backupItems.dat
